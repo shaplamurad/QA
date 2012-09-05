@@ -7,7 +7,6 @@ If myName="x" Then
 	Reporter.ReportEvent micFail, "The test is NOT OK", "Fail"
 End If
 
- Print"done!!!!"
 
 
 
